@@ -1,0 +1,26 @@
+.container{
+  width: 300px;
+  height:400px;
+  padding: 20px;
+}   
+
+div {
+    margin-top: 15px;
+  }
+label {
+    display: block;
+    margin: 5px;
+  }
+  
+
+input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 70%;
+    box-sizing: border-box;
+  }
+Button{
+  display: block;
+}
+  

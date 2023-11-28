@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "Surya Arunesh",
+      "email": "surya@gmail.com",
+      "pass": "surya123",
+      "id": 1
+    },
+    {
+      "username": "Sunil",
+      "email": "sunil@gmail.com",
+      "pass": "sunil123",
+      "id": 2
+    },
+    {
+      "username": "Yokesh",
+      "email": "yoki2004@gmail.com",
+      "pass": "yoki2004",
+      "id": 3
+    },
+    {
+      "username": "Yogesh",
+      "email": "yoki2004@gmail.com",
+      "pass": "yogi18102004",
+      "id": 4
+    },
+    {
+      "username": "sunil Adithya",
+      "email": "sunil@gmail.com",
+      "pass": "1234",
+      "id": 5
+    },
+    {
+      "username": "Vishal",
+      "email": "vishal@gmail.com",
+      "pass": "vishal123",
+      "id": 6
+    }
+  ]
+}
